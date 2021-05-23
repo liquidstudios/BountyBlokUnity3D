@@ -6,4 +6,4 @@ Unity3D-compatible (Desktop, Mobile, WebGL) ApiClient for https://bountyblok.io/
 
 For usage-examples and documentation follow https://docs.bountyblok.io/
 
-Sample-Scene containing a Demo coming soon.
+Sample-Scene containing a Demo in progress.
